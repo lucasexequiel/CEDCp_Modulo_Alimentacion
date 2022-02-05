@@ -1,0 +1,823 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "PLACA DE ALIMENTACIÓN"
+Date "2021-12-15"
+Rev "V02"
+Comp ""
+Comment1 ""
+Comment2 "creativecommons.org/licenses/by/4.0/"
+Comment3 "License: CC BY 4.0"
+Comment4 "Author: Ibañez Lucas"
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 2600 3100
+Connection ~ 2600 3500
+Connection ~ 3550 3300
+Connection ~ 4200 4200
+Connection ~ 4200 4800
+Connection ~ 4200 5350
+Connection ~ 4800 4200
+Connection ~ 4800 4800
+Connection ~ 4800 5350
+Connection ~ 5050 2850
+Connection ~ 5050 4200
+Connection ~ 5300 4200
+Connection ~ 5300 4800
+Connection ~ 5300 5350
+Connection ~ 5350 1700
+Connection ~ 5700 2100
+Connection ~ 5950 4800
+Connection ~ 6200 2850
+Connection ~ 6250 1700
+Connection ~ 6250 2300
+Connection ~ 6450 4200
+Connection ~ 6450 4800
+Connection ~ 6450 5350
+Connection ~ 6700 4200
+Connection ~ 6700 5350
+Connection ~ 6750 2300
+Connection ~ 6750 3450
+Connection ~ 6950 4200
+Connection ~ 6950 4800
+Connection ~ 6950 5350
+Connection ~ 7250 1700
+Connection ~ 7250 2300
+Connection ~ 7250 2850
+Connection ~ 7250 3450
+Connection ~ 7600 4800
+Connection ~ 8100 4200
+Connection ~ 8100 4800
+Connection ~ 8100 5350
+Connection ~ 8200 3450
+Wire Wire Line
+	2450 3100 2600 3100
+Wire Wire Line
+	2600 3100 2950 3100
+Wire Wire Line
+	2600 3150 2600 3100
+Wire Wire Line
+	2600 3450 2600 3500
+Wire Wire Line
+	2600 3500 2150 3500
+Wire Wire Line
+	2600 3500 2950 3500
+Wire Wire Line
+	2650 4650 2800 4650
+Wire Wire Line
+	2650 4850 2800 4850
+Wire Wire Line
+	2800 4250 3400 4250
+Wire Wire Line
+	2800 4650 2800 4250
+Wire Wire Line
+	2800 4850 2800 5350
+Wire Wire Line
+	2800 5350 3400 5350
+Wire Wire Line
+	3100 4750 3100 5100
+Wire Wire Line
+	3100 5100 3600 5100
+Wire Wire Line
+	3400 4250 3400 4450
+Wire Wire Line
+	3400 5050 3400 5350
+Wire Wire Line
+	3550 2800 3750 2800
+Wire Wire Line
+	3550 3200 3550 3300
+Wire Wire Line
+	3550 3300 3550 3400
+Wire Wire Line
+	3550 3800 3800 3800
+Wire Wire Line
+	3600 5100 3600 5350
+Wire Wire Line
+	3600 5350 4200 5350
+Wire Wire Line
+	3650 3300 3550 3300
+Wire Wire Line
+	3700 4200 4200 4200
+Wire Wire Line
+	3700 4750 3700 4200
+Wire Wire Line
+	3950 4800 3950 4900
+Wire Wire Line
+	4200 4300 4200 4200
+Wire Wire Line
+	4200 4600 4200 4800
+Wire Wire Line
+	4200 4800 3950 4800
+Wire Wire Line
+	4200 4800 4200 4950
+Wire Wire Line
+	4200 5250 4200 5350
+Wire Wire Line
+	4200 5350 4800 5350
+Wire Wire Line
+	4800 4200 4200 4200
+Wire Wire Line
+	4800 4300 4800 4200
+Wire Wire Line
+	4800 4600 4800 4800
+Wire Wire Line
+	4800 4800 4200 4800
+Wire Wire Line
+	4800 4800 4800 4950
+Wire Wire Line
+	4800 4800 5300 4800
+Wire Wire Line
+	4800 5250 4800 5350
+Wire Wire Line
+	5050 1700 5050 2850
+Wire Wire Line
+	5050 2850 6200 2850
+Wire Wire Line
+	5050 4200 4800 4200
+Wire Wire Line
+	5050 4200 5050 2850
+Wire Wire Line
+	5300 4200 5050 4200
+Wire Wire Line
+	5300 4200 5650 4200
+Wire Wire Line
+	5300 4300 5300 4200
+Wire Wire Line
+	5300 4600 5300 4800
+Wire Wire Line
+	5300 4800 5300 4950
+Wire Wire Line
+	5300 4800 5950 4800
+Wire Wire Line
+	5300 5250 5300 5350
+Wire Wire Line
+	5300 5350 4800 5350
+Wire Wire Line
+	5300 5350 5650 5350
+Wire Wire Line
+	5350 1700 5050 1700
+Wire Wire Line
+	5350 2100 5700 2100
+Wire Wire Line
+	5500 1700 5350 1700
+Wire Wire Line
+	5700 2100 5700 2000
+Wire Wire Line
+	5700 2400 5700 2450
+Wire Wire Line
+	5700 2450 6250 2450
+Wire Wire Line
+	5950 4500 5950 4800
+Wire Wire Line
+	5950 4800 5950 5050
+Wire Wire Line
+	5950 4800 6450 4800
+Wire Wire Line
+	6200 2850 6450 2850
+Wire Wire Line
+	6200 2950 6200 2850
+Wire Wire Line
+	6200 3250 6200 3450
+Wire Wire Line
+	6200 3450 6750 3450
+Wire Wire Line
+	6250 1700 5900 1700
+Wire Wire Line
+	6250 1700 6250 1850
+Wire Wire Line
+	6250 1700 6450 1700
+Wire Wire Line
+	6250 2300 6250 2150
+Wire Wire Line
+	6250 2300 6750 2300
+Wire Wire Line
+	6250 2450 6250 2300
+Wire Wire Line
+	6250 4200 6450 4200
+Wire Wire Line
+	6450 4300 6450 4200
+Wire Wire Line
+	6450 4600 6450 4800
+Wire Wire Line
+	6450 4800 6450 4950
+Wire Wire Line
+	6450 4800 6950 4800
+Wire Wire Line
+	6450 5250 6450 5350
+Wire Wire Line
+	6450 5350 6250 5350
+Wire Wire Line
+	6700 3850 8950 3850
+Wire Wire Line
+	6700 4200 6450 4200
+Wire Wire Line
+	6700 4200 6700 3850
+Wire Wire Line
+	6700 5350 6450 5350
+Wire Wire Line
+	6700 5700 6700 5350
+Wire Wire Line
+	6700 5700 9900 5700
+Wire Wire Line
+	6750 2000 6750 2300
+Wire Wire Line
+	6750 2300 7250 2300
+Wire Wire Line
+	6750 3150 6750 3450
+Wire Wire Line
+	6750 3450 7250 3450
+Wire Wire Line
+	6950 4200 6700 4200
+Wire Wire Line
+	6950 4200 7300 4200
+Wire Wire Line
+	6950 4300 6950 4200
+Wire Wire Line
+	6950 4600 6950 4800
+Wire Wire Line
+	6950 4800 6950 4950
+Wire Wire Line
+	6950 4800 7600 4800
+Wire Wire Line
+	6950 5250 6950 5350
+Wire Wire Line
+	6950 5350 6700 5350
+Wire Wire Line
+	7050 1700 7250 1700
+Wire Wire Line
+	7050 2850 7250 2850
+Wire Wire Line
+	7250 1700 8950 1700
+Wire Wire Line
+	7250 1850 7250 1700
+Wire Wire Line
+	7250 2150 7250 2300
+Wire Wire Line
+	7250 2300 8650 2300
+Wire Wire Line
+	7250 2850 8950 2850
+Wire Wire Line
+	7250 2950 7250 2850
+Wire Wire Line
+	7250 3250 7250 3450
+Wire Wire Line
+	7250 3450 8200 3450
+Wire Wire Line
+	7300 5350 6950 5350
+Wire Wire Line
+	7600 4500 7600 4800
+Wire Wire Line
+	7600 4800 8100 4800
+Wire Wire Line
+	7600 5050 7600 4800
+Wire Wire Line
+	7900 4200 8100 4200
+Wire Wire Line
+	7900 5350 8100 5350
+Wire Wire Line
+	8100 4200 8100 4300
+Wire Wire Line
+	8100 4600 8100 4800
+Wire Wire Line
+	8100 4800 8100 4950
+Wire Wire Line
+	8100 5250 8100 5350
+Wire Wire Line
+	8200 3450 8650 3450
+Wire Wire Line
+	8200 3950 8200 3450
+Wire Wire Line
+	8200 3950 8950 3950
+Wire Wire Line
+	8450 4200 8100 4200
+Wire Wire Line
+	8450 4700 8450 4200
+Wire Wire Line
+	8450 4900 8950 4900
+Wire Wire Line
+	8450 5350 8100 5350
+Wire Wire Line
+	8450 5350 8450 4900
+Wire Wire Line
+	8650 2300 8650 1800
+Wire Wire Line
+	8650 2950 8950 2950
+Wire Wire Line
+	8650 3450 8650 2950
+Wire Wire Line
+	8650 4250 8650 4050
+Wire Wire Line
+	8950 1800 8650 1800
+Wire Wire Line
+	8950 4050 8650 4050
+Wire Wire Line
+	8950 4700 8450 4700
+Wire Wire Line
+	8950 4800 8100 4800
+Wire Wire Line
+	9900 4250 8650 4250
+Wire Wire Line
+	9900 5700 9900 4250
+Text Notes 950  1350 0    177  ~ 35
+Fuente de Tension\n
+Text Notes 1750 5950 0    50   ~ 10
+Tanto el enchufe a la toma de energia alterna, como el transformador \nno se encuentrar ubicados dentro de la placa PCB de alimentacion
+Text Notes 2300 7150 0    50   ~ 0
+-C16, C17, C18, C19, C22, C23 y C26 son capacitores ceramicos.\n-C20, C21, C24 y C25 son capacitores de tantalio.Si son electroliticos \n   deberan ser de 33u y 10u respectivamente\n-C27 es un capacitor electrolitico\nTodos estos capacitores deben instalarse lo mas cerca posible de los pines\nde sus respectivos reguladores de tension
+Text Notes 3500 6450 0    50   ~ 10
+CORREGIR PLACA 
+Text Label 2950 4250 0    50   ~ 0
++15VAC
+Text Label 2950 5350 0    50   ~ 0
+-15VAC
+Text Label 3750 2800 0    50   ~ 0
++15VAC
+Text Label 3800 3800 0    50   ~ 0
+-15VAC
+Text Label 8600 4700 0    50   ~ 0
++5V
+Text Label 8600 4800 0    50   ~ 0
+GND
+Text Label 8600 4900 0    50   ~ 0
+-5V
+Text Label 8650 1700 0    50   ~ 0
++3,3V
+Text Label 8650 1800 0    50   ~ 0
+GND
+Text Label 8650 2850 0    50   ~ 0
++12V2
+Text Label 8650 2950 0    50   ~ 0
+GND
+Text Label 8650 3850 0    50   ~ 0
++12V1
+Text Label 8650 3950 0    50   ~ 0
+GND
+Text Label 8650 4050 0    50   ~ 0
+-12V
+$Comp
+L power:GND #PWR0105
+U 1 1 61CE5C84
+P 2650 4750
+F 0 "#PWR0105" H 2650 4500 50  0001 C CNN
+F 1 "GND" H 2655 4577 50  0000 C CNN
+F 2 "" H 2650 4750 50  0001 C CNN
+F 3 "" H 2650 4750 50  0001 C CNN
+	1    2650 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 61AD3834
+P 3650 3300
+F 0 "#PWR0102" H 3650 3050 50  0001 C CNN
+F 1 "GND" H 3655 3127 50  0000 C CNN
+F 2 "" H 3650 3300 50  0001 C CNN
+F 3 "" H 3650 3300 50  0001 C CNN
+	1    3650 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 61AC67E3
+P 3950 4900
+F 0 "#PWR0101" H 3950 4650 50  0001 C CNN
+F 1 "GND" H 3955 4727 50  0000 C CNN
+F 2 "" H 3950 4900 50  0001 C CNN
+F 3 "" H 3950 4900 50  0001 C CNN
+	1    3950 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 61DFE963
+P 6750 2300
+F 0 "#PWR0104" H 6750 2050 50  0001 C CNN
+F 1 "GND" H 6755 2127 50  0000 C CNN
+F 2 "" H 6750 2300 50  0001 C CNN
+F 3 "" H 6750 2300 50  0001 C CNN
+	1    6750 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 61D9AF05
+P 6750 3450
+F 0 "#PWR0103" H 6750 3200 50  0001 C CNN
+F 1 "GND" H 6755 3277 50  0000 C CNN
+F 2 "" H 6750 3450 50  0001 C CNN
+F 3 "" H 6750 3450 50  0001 C CNN
+	1    6750 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Fuse F1
+U 1 1 61A8645F
+P 2300 3100
+F 0 "F1" V 2103 3100 50  0000 C CNN
+F 1 "Fuse" V 2194 3100 50  0000 C CNN
+F 2 "" V 2230 3100 50  0001 C CNN
+F 3 "~" H 2300 3100 50  0001 C CNN
+	1    2300 3100
+	0    1    1    0   
+$EndComp
+$Comp
+L Diode:BZX84Cxx D1
+U 1 1 61E91047
+P 5700 2250
+F 0 "D1" V 5654 2330 50  0000 L CNN
+F 1 "BZX84Cxx" V 5745 2330 50  0000 L CNN
+F 2 "Diode_THT:D_A-405_P7.62mm_Horizontal" H 5700 2075 50  0001 C CNN
+F 3 "https://diotec.com/tl_files/diotec/files/pdf/datasheets/bzx84c2v4.pdf" H 5700 2250 50  0001 C CNN
+	1    5700 2250
+	0    1    1    0   
+$EndComp
+$Comp
+L 1623934-1:1623934-1 R1
+U 1 1 61E4572F
+P 5350 1900
+F 0 "R1" V 5396 1831 50  0000 R CNN
+F 1 "1.5k" V 5305 1831 50  0000 R CNN
+F 2 "1623934-1:RESAD1093W54L680D250" H 5350 1900 50  0001 L BNN
+F 3 "" H 5350 1900 50  0001 L BNN
+F 4 "0207" H 5350 1900 50  0001 L BNN "Package"
+F 5 "0" H 5350 1900 50  0001 L BNN "Resistance"
+F 6 "1623934-1" H 5350 1900 50  0001 L BNN "Comment"
+F 7 "Compliant" H 5350 1900 50  0001 L BNN "EU_RoHS_Compliance"
+F 8 ".25 W" H 5350 1900 50  0001 L BNN "Power_Rating"
+	1    5350 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C18
+U 1 1 61A8644A
+P 5300 4300
+F 0 "C18" V 5397 4404 60  0000 L CNN
+F 1 "0,33uF" V 5503 4404 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5450 3940 60  0001 C CNN
+F 3 "" H 5300 4300 60  0000 C CNN
+	1    5300 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C20
+U 1 1 61A86450
+P 5300 4950
+F 0 "C20" V 5397 5054 60  0000 L CNN
+F 1 "0,33uF" V 5503 5054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5450 4590 60  0001 C CNN
+F 3 "" H 5300 4950 60  0000 C CNN
+	1    5300 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C16
+U 1 1 61D88D43
+P 6200 2950
+F 0 "C16" V 6297 3054 60  0000 L CNN
+F 1 "0,33uF" V 6403 3054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6350 2590 60  0001 C CNN
+F 3 "" H 6200 2950 60  0000 C CNN
+	1    6200 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C26
+U 1 1 61DD428F
+P 6250 1850
+F 0 "C26" V 6347 1954 60  0000 L CNN
+F 1 "0,1uF" V 6453 1954 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6400 1490 60  0001 C CNN
+F 3 "" H 6250 1850 60  0000 C CNN
+	1    6250 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C19
+U 1 1 61B3A331
+P 6450 4300
+F 0 "C19" V 6547 4404 60  0000 L CNN
+F 1 "0,1uF" V 6653 4404 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6600 3940 60  0001 C CNN
+F 3 "" H 6450 4300 60  0000 C CNN
+	1    6450 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C21
+U 1 1 61B3A337
+P 6450 4950
+F 0 "C21" V 6547 5054 60  0000 L CNN
+F 1 "0,1uF" V 6653 5054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6600 4590 60  0001 C CNN
+F 3 "" H 6450 4950 60  0000 C CNN
+	1    6450 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C22
+U 1 1 61C50089
+P 6950 4300
+F 0 "C22" V 7047 4404 60  0000 L CNN
+F 1 "0,33uF" V 7153 4404 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 7100 3940 60  0001 C CNN
+F 3 "" H 6950 4300 60  0000 C CNN
+	1    6950 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C24
+U 1 1 61C5008F
+P 6950 4950
+F 0 "C24" V 7047 5054 60  0000 L CNN
+F 1 "0,33uF" V 7153 5054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 7100 4590 60  0001 C CNN
+F 3 "" H 6950 4950 60  0000 C CNN
+	1    6950 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C17
+U 1 1 61D88D51
+P 7250 2950
+F 0 "C17" V 7347 3054 60  0000 L CNN
+F 1 "0,1uF" V 7453 3054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 7400 2590 60  0001 C CNN
+F 3 "" H 7250 2950 60  0000 C CNN
+	1    7250 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C23
+U 1 1 61C6C753
+P 8100 4300
+F 0 "C23" V 8197 4404 60  0000 L CNN
+F 1 "0,1uF" V 8303 4404 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 8250 3940 60  0001 C CNN
+F 3 "" H 8100 4300 60  0000 C CNN
+	1    8100 4300
+	0    1    1    0   
+$EndComp
+$Comp
+L Capacitor_2:C315C222K1R5CA C25
+U 1 1 61C6C759
+P 8100 4950
+F 0 "C25" V 8197 5054 60  0000 L CNN
+F 1 "0,1uF" V 8303 5054 60  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 8250 4590 60  0001 C CNN
+F 3 "" H 8100 4950 60  0000 C CNN
+	1    8100 4950
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Varistor RV1
+U 1 1 61A86479
+P 2600 3300
+F 0 "RV1" H 2703 3346 50  0000 L CNN
+F 1 "270V" H 2703 3255 50  0000 L CNN
+F 2 "" V 2530 3300 50  0001 C CNN
+F 3 "~" H 2600 3300 50  0001 C CNN
+	1    2600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J2
+U 1 1 61C4A870
+P 9150 1700
+F 0 "J2" H 9230 1692 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 9230 1601 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm" H 9150 1700 50  0001 C CNN
+F 3 "~" H 9150 1700 50  0001 C CNN
+	1    9150 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J3
+U 1 1 61C449D4
+P 9150 2850
+F 0 "J3" H 9230 2842 50  0000 L CNN
+F 1 "Screw_Terminal_01x02" H 9230 2751 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm" H 9150 2850 50  0001 C CNN
+F 3 "~" H 9150 2850 50  0001 C CNN
+	1    9150 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1 C8
+U 1 1 61A8640F
+P 4200 4450
+F 0 "C8" H 4315 4496 50  0000 L CNN
+F 1 "4700u" H 4315 4405 50  0000 L CNN
+F 2 "Cap_4700u:CAPPRD1000W190D2250H4200" H 4200 4450 50  0001 C CNN
+F 3 "~" H 4200 4450 50  0001 C CNN
+	1    4200 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1 C12
+U 1 1 61A86415
+P 4200 5100
+F 0 "C12" H 4315 5146 50  0000 L CNN
+F 1 "4700u" H 4315 5055 50  0000 L CNN
+F 2 "Cap_4700u:CAPPRD1000W190D2250H4200" H 4200 5100 50  0001 C CNN
+F 3 "~" H 4200 5100 50  0001 C CNN
+	1    4200 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1 C10
+U 1 1 61AAE971
+P 4800 4450
+F 0 "C10" H 4915 4496 50  0000 L CNN
+F 1 "4700u" H 4915 4405 50  0000 L CNN
+F 2 "Cap_4700u_35V:CAPPRD750W90D1825H4200" H 4800 4450 50  0001 C CNN
+F 3 "~" H 4800 4450 50  0001 C CNN
+	1    4800 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1 C14
+U 1 1 61AAE977
+P 4800 5100
+F 0 "C14" H 4915 5146 50  0000 L CNN
+F 1 "4700u" H 4915 5055 50  0000 L CNN
+F 2 "Cap_4700u_35V:CAPPRD750W90D1825H4200" H 4800 5100 50  0001 C CNN
+F 3 "~" H 4800 5100 50  0001 C CNN
+	1    4800 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Circuito-fuente-rescue:EEUEB2V100B-Cap_Electrolitico_1u_2 C27
+U 1 1 61E59617
+P 7250 1950
+F 0 "C27" V 7254 2080 50  0000 L CNN
+F 1 "10u" V 7345 2080 50  0000 L CNN
+F 2 "Cap_Electrolitico_1u:CAPPRD500W60D1000H1250" H 7250 1950 50  0001 L BNN
+F 3 "" H 7250 1950 50  0001 L BNN
+F 4 "28-FEB-20" H 7250 1950 50  0001 L BNN "PARTREV"
+F 5 "10" H 7250 1950 50  0001 L BNN "D_nom"
+F 6 "5" H 7250 1950 50  0001 L BNN "e_nom"
+F 7 "0.65" H 7250 1950 50  0001 L BNN "b_max"
+F 8 "PANASONIC" H 7250 1950 50  0001 L BNN "MF"
+F 9 "0.6" H 7250 1950 50  0001 L BNN "b_nom"
+F 10 "20" H 7250 1950 50  0001 L BNN "A_max"
+F 11 "EB-A" H 7250 1950 50  0001 L BNN "DESCRIPTION"
+	1    7250 1950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J1
+U 1 1 61C5E917
+P 2450 4750
+F 0 "J1" H 2530 4792 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 2530 4701 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm" H 2450 4750 50  0001 C CNN
+F 3 "~" H 2450 4750 50  0001 C CNN
+	1    2450 4750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J4
+U 1 1 61C3A59C
+P 9150 3950
+F 0 "J4" H 9230 3992 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 9230 3901 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm" H 9150 3950 50  0001 C CNN
+F 3 "~" H 9150 3950 50  0001 C CNN
+	1    9150 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x03 J5
+U 1 1 61C2ACA7
+P 9150 4800
+F 0 "J5" H 9230 4842 50  0000 L CNN
+F 1 "Screw_Terminal_01x03" H 9230 4751 50  0000 L CNN
+F 2 "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm" H 9150 4800 50  0001 C CNN
+F 3 "~" H 9150 4800 50  0001 C CNN
+	1    9150 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_BJT:TIP122 Q1
+U 1 1 61E20A5E
+P 5700 1800
+F 0 "Q1" V 6044 1800 50  0000 C CNN
+F 1 "TIP122" V 5953 1800 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5900 1725 50  0001 L CIN
+F 3 "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF" H 5700 1800 50  0001 L CNN
+	1    5700 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Regulator_Linear:LM7812_TO220 U35
+U 1 1 61B3A326
+P 5950 4200
+F 0 "U35" H 5950 4442 50  0000 C CNN
+F 1 "LM7812_TO220" H 5950 4351 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5950 4425 50  0001 C CIN
+F 3 "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" H 5950 4150 50  0001 C CNN
+	1    5950 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LM7912_TO220 U39
+U 1 1 61B3A312
+P 5950 5350
+F 0 "U39" H 5950 5201 50  0000 C CNN
+F 1 "LM7912_TO220" H 5950 5110 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 5950 5150 50  0001 C CIN
+F 3 "hhttps://www.onsemi.com/pub/Collateral/MC7900-D.PDF" H 5950 5350 50  0001 C CNN
+	1    5950 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LD1117S12TR_SOT223 U45
+U 1 1 61DD427A
+P 6750 1700
+F 0 "U45" H 6750 1942 50  0000 C CNN
+F 1 "LD1117S12TR_SOT223" H 6750 1851 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 6750 1900 50  0001 C CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf" H 6850 1450 50  0001 C CNN
+	1    6750 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LM7812_TO220 U4
+U 1 1 61D88D4B
+P 6750 2850
+F 0 "U4" H 6750 3092 50  0000 C CNN
+F 1 "LM7812_TO220" H 6750 3001 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 6750 3075 50  0001 C CIN
+F 3 "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" H 6750 2800 50  0001 C CNN
+	1    6750 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LM7805_TO220 U40
+U 1 1 61C489E9
+P 7600 4200
+F 0 "U40" H 7600 4442 50  0000 C CNN
+F 1 "LM7805_TO220" H 7600 4351 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 7600 4425 50  0001 C CIN
+F 3 "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" H 7600 4150 50  0001 C CNN
+	1    7600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LM7905_TO220 U41
+U 1 1 61C9A50B
+P 7600 5350
+F 0 "U41" H 7600 5201 50  0000 C CNN
+F 1 "LM7905_TO220" H 7600 5110 50  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 7600 5150 50  0001 C CIN
+F 3 "https://www.onsemi.com/pub/Collateral/MC7900-D.PDF" H 7600 5350 50  0001 C CNN
+	1    7600 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 6ESRM-P:6ESRM-P X1
+U 1 1 61A86458
+P 2050 3300
+F 0 "X1" H 2050 3300 50  0001 L BNN
+F 1 "6ESRM-P" H 2050 3300 50  0001 L BNN
+F 2 "" H 2050 3300 50  0001 L BNN
+F 3 "" H 2050 3300 50  0001 L BNN
+F 4 "Compliant" H 2050 3300 50  0001 L BNN "EU_RoHS_Compliance"
+F 5 "1609078-1" H 2050 3300 50  0001 L BNN "Comment"
+	1    2050 3300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Bridge_+-AA D2
+U 1 1 61A8641B
+P 3400 4750
+F 0 "D2" H 3600 5000 50  0000 L CNN
+F 1 ">2A " H 3550 4900 50  0000 L CNN
+F 2 "Diode_THT:Diode_Bridge_15.2x15.2x6.3mm_P10.9mm" H 3400 4750 50  0001 C CNN
+F 3 "~" H 3400 4750 50  0001 C CNN
+	1    3400 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L ST-4-24:ST-4-24 U24
+U 1 1 61A8646B
+P 3250 3300
+F 0 "U24" H 3250 3981 50  0000 C CNN
+F 1 "Trafo: 15+15" H 3250 3890 50  0000 C CNN
+F 2 "" H 3250 3300 50  0001 L BNN
+F 3 "" H 3250 3300 50  0001 L BNN
+F 4 "Signal Transformer" H 3250 3300 50  0001 L BNN "MANUFACTURER"
+F 5 "ST/DST Series 12.19" H 3250 3300 50  0001 L BNN "PARTREV"
+F 6 "Manufacturer Recommendations" H 3250 3300 50  0001 L BNN "STANDARD"
+F 7 "33.3mm" H 3250 3300 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+	1    3250 3300
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
